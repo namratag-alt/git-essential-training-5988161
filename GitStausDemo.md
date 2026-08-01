@@ -1,1 +1,1 @@
-Demo file to elaborate commit msg . Better change
+Demo file to elaborate commit msg. practice file
